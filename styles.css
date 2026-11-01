@@ -1,0 +1,18 @@
+/* Notas tipadas — el cuadro del título y las áreas de los ajustes. */
+.notas-tipadas-entrada {
+  width: 100%;
+}
+.notas-tipadas-area {
+  width: min(32em, 100%);
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-small);
+}
+.notas-tipadas-tipo {
+  border-top: 1px solid var(--background-modifier-border);
+  padding: 0.4em 0;
+}
+.notas-tipadas-tipo > summary {
+  cursor: pointer;
+  font-weight: var(--font-semibold);
+  padding: 0.3em 0;
+}

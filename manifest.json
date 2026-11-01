@@ -1,0 +1,10 @@
+{
+  "id": "notas-tipadas",
+  "name": "Notas tipadas",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Notas tipadas (idea, proyecto, reunión…) con título y nombre estándar, frontmatter único y archivado con confirmación; extrae la selección a una nota o a una tarea.",
+  "author": "achalmed",
+  "authorUrl": "https://github.com/achalmed",
+  "isDesktopOnly": false
+}
